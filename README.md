@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a geomatics student @ UVic, with experience in geospatial data management and analysis.
 
-- 🔭 I’m currently doing some courses at UVic, and sometimes updating my [website](https://ma-graff.github.io/).
-- 🌱 I’ll also be joining the Canadian Space Agency in Montreal in September as an intern.
+- 🔭 I’m currently working at the Canadian Space Agency in Montréal as a Data Science Intern.
+- 🌱 I'm also updating my [website](https://ma-graff.github.io/).
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matt-graff/), [Email](mailto:mattgraff0@gmail.com)
