@@ -1,8 +1,9 @@
 ## Hi there 👋
-My name is Matt, I'm a 4th-year Computer Science and Geography student at the University of Victoria.
+My name is Matt, I'm a Computer Science and Geography graduate.
 <br/><br/>
 Currently, I'm:
 - 🔭 Working at the Canadian Space Agency in Montréal as a Data Science Intern.
+- 👀 Looking for full-time positions in Montréal for late-April 2026.
 - 🌱 Updating my [website](https://ma-graff.github.io/).
 <br/><br/>
 
