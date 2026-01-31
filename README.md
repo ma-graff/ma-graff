@@ -8,7 +8,7 @@ Currently, I'm:
 <br/><br/>
 
 My skills and interests:
-- I'm good at **Python, Full-Stack, Data and Geomatics. And any combination of the four**
+- I'm good at **Python, Full-Stack, Data and Geomatics - and any combination of the four.**
 - My interests are urban planning, transit systems, earth observation and design.
 <br/><br/>
 
